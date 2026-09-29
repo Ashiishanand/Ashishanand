@@ -43,6 +43,6 @@ for real-world organizations.
 
 ---
 
-📫 Connect with me
+## Connect with me
 
 [LinkedIn] · [Portfolio] · [Instagram]
